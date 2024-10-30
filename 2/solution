@@ -1,0 +1,6 @@
+PATCH /comments/3 HTTP/1.1
+Host: localhost
+Content-Length: 21
+Content-Type: application/json
+
+{"text": "I got it!"}
